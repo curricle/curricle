@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 I'm Steph. I'm a front end developer with a graphic design background who loves to make sites and applications that are both beautiful and functional.
 
@@ -11,7 +11,7 @@ I'm Steph. I'm a front end developer with a graphic design background who loves 
 
 ## Education
 
-B.A. in Digital Design
+B.A. in Digital Design\
 New Jersey Institute of Technology - Newark, NJ
 
 ## Hobbies
