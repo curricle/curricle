@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Steph. I'm a front end developer and game developer with a graphic design background who loves to make sites and applications that are both beautiful and functional.
+You can call me Jordan! I'm a front end developer and game developer with a graphic design background who loves to make sites and applications that are both beautiful and functional.
 
 ## Work Experience
 
