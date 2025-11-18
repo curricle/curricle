@@ -1,6 +1,6 @@
 # Hi there 👋
 
-You can call me Jordan! I'm a front end developer and game developer with a graphic design background who loves to make sites and applications that are both beautiful and functional.
+You can call me Jordan! I'm a front end developer and game developer with a graphic design background who loves to make games, sites, and applications with impact. Bringing form and function together is my passion!
 
 ## Work Experience
 
